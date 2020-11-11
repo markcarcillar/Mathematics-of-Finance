@@ -17,10 +17,10 @@ on = True
 while on:
   try:
     print('Compound Interest. Only enter a number.')
-    principal = int(input('Principal amount: '))
+    principal = float(input('Principal amount: '))
     rate = float(input('Rate (Give the decimal value. Example: .10)\n'))
-    conversion_period = int(input('Conversion period: '))
-    time = int(input('Number of years: '))
+    conversion_period = float(input('Conversion period: '))
+    time = float(input('Number of years: '))
     compound_interest = principal * (1 + rate / conversion_period)**(conversion_period*time)
     sleep(2)
     print(f'----> Compound Interest: {compound_interest}')

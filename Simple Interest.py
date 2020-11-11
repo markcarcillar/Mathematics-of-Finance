@@ -16,12 +16,9 @@ on = True
 while on:
   try:
     print('Simple Interest. Only enter a number.')
-    principal = input('Principal Amount: ')
-    principal = int(principal)
-    rate = input('Rate (Give the decimal value. Example: .10)\n')
-    rate = float(rate)
-    time = input('Number of years: ')
-    time = int(time)
+    principal = float(input('Principal Amount: '))
+    rate = float(input('Rate (Give the decimal value. Example: .10)\n'))
+    time = float(input('Number of years: '))
     simple_interest = principal * rate * time
     sleep(2)
     print(f'----> Simple Interest: {simple_interest}')

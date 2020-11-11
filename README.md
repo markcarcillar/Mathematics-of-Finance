@@ -1,14 +1,17 @@
 # Mathematics of Finance
 
-This repository is for financing using python programming language. It have Compound Interest and Simple Interest. What it does is it will ask us what are the given value then
-it will the answer.
+This repository is for financing using python programming language. It have Compound Interest and Simple Interest. What it do is, it will ask us what are the given value then
+it will give the answer.
 
-# Here are the examples for this repository:
+- Examples:
+  1. Compound Interest
+  ![](img/Compound-Interest.png)
 
-# Compound Interest
-![](img/Compound-Interest.png)
+  2. Simple Interest
+  ![](img/Simple-Interest.png)
 
-# Simple Interest
-![](img/Simple-Interest.png)
-
-As we can see it ask for the given value, give answer, and ask us if we want to continue.
+- Quick start:
+  1. clone - git clone https://github.com/clediscover/Mathematics-of-Finance.git
+  2. cd Mathematics-of-Finance
+  3. python3 'Compound Interest.py'
+  4. python3 'Simple Interest.py'
