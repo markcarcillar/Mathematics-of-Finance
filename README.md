@@ -5,13 +5,13 @@ it will give the answer.
 
 - Examples:
   1. Compound Interest
-  ![](img/Compound-Interest.png)
+  - ![](img/Compound-Interest.png)
 
   2. Simple Interest
-  ![](img/Simple-Interest.png)
+  - ![](img/Simple-Interest.png)
 
-- Quick start:
-  1. clone - git clone https://github.com/clediscover/Mathematics-of-Finance.git
+- Quick start (Use python IDE):
+  1. git clone https://github.com/clediscover/Mathematics-of-Finance.git
   2. cd Mathematics-of-Finance
   3. python3 'Compound Interest.py'
   4. python3 'Simple Interest.py'
