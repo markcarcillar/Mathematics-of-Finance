@@ -1,13 +1,12 @@
 # Mathematics of Finance
 
-This repository is for financing using python programming language. It have Compound Interest and Simple Interest. What it do is, it will ask us what are the given value then
-it will give the answer.
+This repository is for financing using python programming language. It has Compound Interest and Simple Interest. See **Quick start** for more information on how to use this.
 
-### Examples:
-1. Simple Interest
+## Examples:
+### Simple Interest
   <img src="img/Simple-Interest.png" height="200">
 
-2. Compound Interest
+### Compound Interest
   <img src="img/Compound-Interest.png" height="200">
 
 ### Quick start:
